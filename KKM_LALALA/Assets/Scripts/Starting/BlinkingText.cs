@@ -18,7 +18,6 @@ public class BlinkingText : MonoBehaviour {
     }
 
 
-
     void blinking(){
         if (myText.text == ("")){
             myText.text = "TAP TO START";
